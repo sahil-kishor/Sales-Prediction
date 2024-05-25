@@ -95,6 +95,14 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 
 
   
+## Author
 
+Sahil Kishor
+
+Project : https://github.com/sahil-kishor/Sales-Prediction/blob/main/Machine_Learning_Mid_Course_Assessment_Case_Study.ipynb 
+
+Email : kishorsahil555@gmail.com
+
+LinkedIn : www.linkedin.com/in/sahil-kishor
 
 

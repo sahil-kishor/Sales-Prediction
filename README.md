@@ -13,9 +13,9 @@ Provided with historical sales data for 1,115 Rossmann stores. The task is to fo
 
 ## Data Description
 
-**Rossmann Stores Data.csv - historical data including Sales** 
+- **Rossmann Stores Data.csv** - historical data including Sales
 
-**store.csv - supplemental information about the stores**
+- **store.csv** - supplemental information about the stores
 
 ## Data fields
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.

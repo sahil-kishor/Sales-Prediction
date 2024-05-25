@@ -1,2 +1,2 @@
 # Sales-Prediction
-Developed a Supervised Machine Learning model in Python to predict drug store sales, leveraging dataset analysis for accurate sales forecasting.
+## Predicting sales on store chains of Rossmann Drug Stores in Europe!

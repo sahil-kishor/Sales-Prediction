@@ -1,6 +1,8 @@
 # Sales-Prediction
 ## Predicting Sales on store chains of Rossmann Drug Stores in Europe!
 
+![Rossmann Stores](https://github.com/sahil-kishor/Sales-Prediction/assets/159517524/de40f6c4-29c2-465c-ad81-9858cac6f043)
+
 ## Promblem Statement:
 
 Imagine yourself as a freelance data scientist ready for the next project adventure. Your task is to select a machine learning project from the list provided or propose an original project idea that resonates with you. Your objective is to identify a specific challenge within the chosen industry domain and design a machine learning solution to address it. Whether you're predicting customer behavior, optimizing processes, or making healthcare more efficient, your project should demonstrate your ability to approach complex problems, preprocess and analyze relevant data, develop and fine-tune models, and interpret results in a meaningful way. Your project will be a testament to your adaptability, curiosity, and aptitude for machine learning.

@@ -91,7 +91,7 @@ Most of the fields are self-explanatory. The following are descriptions for thos
 ***Train and Test Scores for all Supervised Learning models:***
 ![Screenshot 2024-05-25 185727](https://github.com/sahil-kishor/Sales-Prediction/assets/159517524/88717387-51a9-438b-bd87-e023f39fe538)
 
-###Random Forest regressor achieved the highest in training and testing score with lowest MAPE as 5.65% showing that it is a highly accurate model. MAE is the average magnitude of error produced by your model, the MAPE is how far the model’s predictions are off from their corresponding outputs on average.
+### Random Forest regressor achieved the highest in training and testing score with lowest MAPE as 5.65% showing that it is a highly accurate model. MAE is the average magnitude of error produced by your model, the MAPE is how far the model’s predictions are off from their corresponding outputs on average.
 
 
   
